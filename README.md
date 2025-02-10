@@ -1,4 +1,4 @@
-Questo repository contiene informazioni utili per scaricare l'indirizzario e lo stradario di tutta Italia estratti dall'API dell'Archivio Nazionale dei Numeri Civici e delle Strade Urbane (ANNCSU).
+Questo repository contiene informazioni utili per scaricare l'indirizzario e lo stradario di tutta Italia dall'API dell'Archivio Nazionale dei Numeri Civici e delle Strade Urbane (ANNCSU).
 
 Indirizzario Italia:
 https://anncsu.open.agenziaentrate.gov.it/age-inspire/opendata/anncsu/getds.php?INDIR_ITA
