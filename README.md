@@ -27,10 +27,10 @@ dove
 
 NOME_REGIONE = ABRUZ̶Z̶O̶, SICIL̶I̶A̶, LAZIO̶
 
-### Appunti: 
+# Geodati
+### Accessi georeferenziati: 25_952_906
+### Accessi non georeferenziati: 760_573
+### [geodati/INDIR_ITA_20250128_GEO.parquet](https://github.com/ivandorte/anncsu_dump/blob/main/geodati/INDIR_ITA_20250128_GEO.parquet)
 
-1) Caricare zip stradari/indirizzari (LFS se zip > 25mb);
-2) Elaborare CSV indirizzario (Italia/regioni) e converirlo in ?parquet? o altro formato dati
-3) Caricare gpq dump 02/2024 ed integrare numeri civici mancanti (circa 600k)
-4) Action per aggiornare periodicamente zip (1
-5) ...
+![italia](italia.png)
+
